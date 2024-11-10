@@ -128,7 +128,7 @@ nav ul li a:hover {
 }
 
 .dark-theme {
-  background-color: #070e16;
+  background-color: #01060b;
 }
 
 
@@ -136,7 +136,7 @@ nav ul li a:hover {
 .menu {
   padding: 80px 0;
   text-align: center;
-  background-color: #070e16;
+  background-color: #000204;
 }
 
 .menu h2 {
@@ -270,7 +270,7 @@ nav ul li a:hover {
 .gallery {
   padding: 80px 0;
   text-align: center;
-  background-color: #070e16;
+  background-color: #03070b;
 }
 
 .gallery h2 {
@@ -294,23 +294,14 @@ nav ul li a:hover {
 }
 
 
-/* Contact Section*/
-/* Body ke background ko image se replace karna */
-body {
-  background-image: url('pp.png'); /* Ensure image is in the 'images' folder */
-  background-size: cover; /* Image will cover the entire page */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Prevent image from repeating */
-  background-attachment: fixed; /* Keeps the image fixed during scroll */
-  color: #f2ecec;
-}
 
-/* .contact {
-  background-color: #010422;
+
+.contact {
+  background-color: #02010d;
   padding: 80px 0;
   text-align: center;
   color: #fff;
-} */
+}
 
 .contact-container {
   max-width: 600px;
